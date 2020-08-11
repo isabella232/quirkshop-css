@@ -12,19 +12,20 @@ and interacting with css.
 * :10 john waters and outfits
 * :15 introduction to css
 
+    * inspecting the dom
     * css selectors
     * css variables
     * css animations
 
-* :30 custom jupyterlab styles
+* :35 custom jupyterlab styles
 
     formal and informal themes for jupyterlab
     * jupyterlab theme extensions
     * custom themes in the notebook
 
-* :38 the wes anderson widget
-* :45 adding a logo to jupyterlab
-* :52 take aways
+* :44 the wes anderson widget
+* :50 adding a logo to jupyterlab
+* :55 take aways
 
 ## introductions
 
