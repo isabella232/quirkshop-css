@@ -5,6 +5,9 @@ Tuesday August 18 @
 this quirkshop is an education and exploration into css.
 it uses the jupyterlab web framework as a medium for learning
 and interacting with css.
+a general understanding of css is a general skill.
+to designers css is a design language and to data scientists
+css is a query language.
 
 ## Agenda
 
