@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+set -eux
+
+mamba env update --file mamba.yml --prefix ${NB_PYTHON_PREFIX}
+
+jupyter serverextension enable --sys-prefix --py jupyter_videochat
+jupyter serverextension enable --sys-prefix --py nbgitpuller
+
+jupyter labextension install $(cat labex.txt) --no-build --debug
+
+git clone https://github.com/bollwyvl/jupyter-videochat.git
+
+pushd jupyter-videochat
+  git checkout add-url-router
+  jlpm
+  jlpm build
+  npm pack
+  jupyter labextension install \
+      ./jupyterlab-videochat-*.tgz \
+      --no-build \
+      --debug
+popd
+
+git clone https://github.com/bollwyvl/wxyz
+
+pushd wxyz
+  git checkout jlab2
+  doit -n4 setup_py_dev ts
+  jupyter labextension install --debug --no-build $(find src/ts | grep tgz)
+popd
+
+jupyter labextension list
+
+mkdir .tmp
+
+pushd .tmp
+  jupyter lab build --debug --dev-build=False --minimize=False || echo "didn't work, continuing anyway"
+popd
+
+conda clean -yaf
+jlpm cache clean
+
+mkdir -p ${NB_PYTHON_PREFIX}/share/jupyter/lab/settings
+cp overrides.json ${NB_PYTHON_PREFIX}/share/jupyter/lab/settings
+
+python -m pip check || echo "uh oh"
+jupyter serverextension list
+jupyter kernelspec list
+jupyter labextension list

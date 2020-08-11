@@ -1,0 +1,14 @@
+name: css-mamba
+channels:
+- conda-forge
+- nodefaults
+dependencies:
+- jupyter-server-proxy
+- jupyterlab ==2.2.2
+- matplotlib-base
+- nbgitpuller
+- nteract_on_jupyter
+- pip:
+  - jupyterlab-git
+  - jupyter-starters ==0.3.0a0
+  - jupyter-videochat ==0.1.1

@@ -1,0 +1,8 @@
+@deathbeds/jupyterlab-font-anonymous-pro
+@deathbeds/jupyterlab-font-dejavu-sans-mono
+@deathbeds/jupyterlab-font-fira-code
+@deathbeds/jupyterlab-fonts
+@jupyter-widgets/jupyterlab-manager
+@jupyterlab/git
+@deathbeds/jupyterlab-starters
+jupyterlab-plugin-graph

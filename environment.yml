@@ -1,0 +1,7 @@
+name: jupyter-css-quirkshop
+channels:
+- conda-forge
+- nodefaults
+dependencies:
+- mamba
+- pybind11
