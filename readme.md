@@ -48,7 +48,7 @@ guest: isabela
 * csstricks
 * w3c
 
-https://jupyterlab.readthedocs.io/en/stable/developer/css.html
+[jupyterlab css]: https://jupyterlab.readthedocs.io/en/stable/developer/css.html
 [Light theme]: https://githb.com/jupyterlab/jupyterlab/blob/master/packages/theme-light-extension/style/variables.css
 [Dark theme]: https://github.com/jupyterlab/jupyterlab/blob/master/packages/theme-dark-extension/style/variables.css
 [qhub theme]: https://github.com/Quansight/qurated-theme
