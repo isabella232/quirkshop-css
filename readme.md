@@ -49,3 +49,4 @@ https://jupyterlab.readthedocs.io/en/stable/developer/css.html
 [Light theme]: https://githb.com/jupyterlab/jupyterlab/blob/master/packages/theme-light-extension/style/variables.css
 [Dark theme]: https://github.com/jupyterlab/jupyterlab/blob/master/packages/theme-dark-extension/style/variables.css
 [qhub theme]: https://github.com/Quansight/qurated-theme
+[john waters]: https://www.instagram.com/p/CDrij-XlVCI/?igshid=jcsqr0vka7ey
