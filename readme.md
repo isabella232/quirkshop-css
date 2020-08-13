@@ -12,15 +12,15 @@ css is a query language.
 ## Agenda
 
 * :05 run through the readme
-* :10 john waters and outfits
-* :15 introduction to css
+* :10 [john waters and outfits](quirkshop-css/john-waters.ipynb)
+* :15 [introduction to css](quirkshop-css/intro-to-css.ipynb)
 
     * css selectors
     * css animations
     * inspecting the dom
     * css variables
     
-* :35 custom jupyterlab styles
+* :35 [custom jupyterlab styles](lab-styling.ipynb)
 
     formal and informal themes for jupyterlab
     * jupyterlab theme extensions
@@ -30,8 +30,8 @@ css is a query language.
     * adding themes as extensions
     * custom themes in the notebook
 
-* :44 the wes anderson widget
-* :50 adding a logo to jupyterlab
+* :44 [the wes anderson widget](wes.ipynb)
+* :50 [adding a logo to jupyterlab]()
 * :55 take aways
 
 ## introductions
