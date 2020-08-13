@@ -1,6 +1,6 @@
 # Personalizing JupyterLab with CSS
 
-Tuesday August 18 @
+[Tuesday August 18 @ 6 PM EST on Youtube Live](https://www.youtube.com/watch?v=aXjGtcamb_0&feature=youtu.be)
 
 this quirkshop is an education and exploration into css.
 it uses the jupyterlab web framework as a medium for learning
