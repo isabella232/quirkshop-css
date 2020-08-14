@@ -4,29 +4,22 @@
             "main": {
                 "dock": {
                     "type": "split-area",
-                    "orientation": "vertical",
+                    "orientation": "horizontal",
                     "sizes": [
-                        0.25,
-                        0.25,
-                        0.5
+                        0.42322834645669294,
+                        0.5767716535433071
                     ],
                     "children": [{
                             "type": "tab-area",
                             "currentIndex": 0,
                             "widgets": [
-                                "notebook:Untitled.ipynb"
-                            ]
-                        },
-                        {
-                            "type": "tab-area",
-                            "currentIndex": 0,
-                            "widgets": [
-                                "terminal:2"
+                                "markdownviewer-widget:readme.md",
+                                "markdownviewer-widget:quirkshop-css/readme.md"
                             ]
                         },
                         {
                             "type": "split-area",
-                            "orientation": "horizontal",
+                            "orientation": "vertical",
                             "sizes": [
                                 0.5,
                                 0.5
@@ -35,14 +28,18 @@
                                     "type": "tab-area",
                                     "currentIndex": 0,
                                     "widgets": [
-                                        "editor:labex.txt"
+                                        "notebook:quirkshop-css/john-waters.ipynb"
                                     ]
                                 },
                                 {
                                     "type": "tab-area",
-                                    "currentIndex": 0,
+                                    "currentIndex": 1,
                                     "widgets": [
-                                        "editor:mamba.yml"
+                                        "notebook:quirkshop-css/intro-to-css.ipynb",
+                                        "terminal:2",
+                                        "notebook:quirkshop-css/lab-styling.ipynb",
+                                        "notebook:quirkshop-css/wes.ipynb",
+                                        "notebook:quirkshop-css/logo.ipynb"
                                     ]
                                 }
                             ]
@@ -65,26 +62,53 @@
                 ]
             },
             "right": {
-                "collapsed": false,
+                "collapsed": true,
                 "widgets": []
             }
         },
-        "notebook:Untitled.ipynb": {
+        "file-browser-filebrowser:cwd": {
+            "path": "quirkshop-css"
+        },
+        "markdownviewer-widget:readme.md": {
             "data": {
-                "path": "Untitled.ipynb",
+                "path": "readme.md",
+                "factory": "Markdown Preview"
+            }
+        },
+        "notebook:quirkshop-css/intro-to-css.ipynb": {
+            "data": {
+                "path": "quirkshop-css/intro-to-css.ipynb",
                 "factory": "Notebook"
             }
         },
-        "editor:labex.txt": {
+        "notebook:quirkshop-css/john-waters.ipynb": {
             "data": {
-                "path": "labex.txt",
-                "factory": "Editor"
+                "path": "quirkshop-css/john-waters.ipynb",
+                "factory": "Notebook"
             }
         },
-        "editor:mamba.yml": {
+        "notebook:quirkshop-css/lab-styling.ipynb": {
             "data": {
-                "path": "mamba.yml",
-                "factory": "Editor"
+                "path": "quirkshop-css/lab-styling.ipynb",
+                "factory": "Notebook"
+            }
+        },
+        "notebook:quirkshop-css/logo.ipynb": {
+            "data": {
+                "path": "quirkshop-css/logo.ipynb",
+                "factory": "Notebook"
+            }
+        },
+        "notebook:quirkshop-css/wes.ipynb": {
+            "data": {
+                "path": "quirkshop-css/wes.ipynb",
+                "factory": "Notebook"
+            }
+        },
+        "markdownviewer-widget:quirkshop-css/readme.md": {
+            "data": {
+                "path": "quirkshop-css/readme.md",
+                "factory": "Markdown Preview"
             }
         },
         "terminal:2": {
@@ -94,6 +118,6 @@
         }
     },
     "metadata": {
-        "id": "/lab/workspaces/css"
+        "id": "/lab/workspaces/auto-V"
     }
 }
