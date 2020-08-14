@@ -10,6 +10,7 @@ dependencies:
 - nbgitpuller
 - nteract_on_jupyter
 - shapely
+- pip
 - pip:
   - jupyterlab-git
   - jupyter-starters ==0.3.0a0
