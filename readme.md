@@ -1,5 +1,7 @@
 # Personalizing JupyterLab with CSS
 
+[![](https://img.shields.io/badge/binder-quirkshop-purple)](https://mybinder.org/v2/gh/Quansight/quirkshop-css/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FQuansight%252Fquirkshop-css%26urlpath%3Dlab%252Fworkspaces%252Fcss%253Fjvc%253Dcss%26branch%3Dmaster)
+
 [Tuesday August 18 @ 6 PM EST on Youtube Live](https://www.youtube.com/watch?v=aXjGtcamb_0&feature=youtu.be)
 
 this quirkshop is an education and exploration into css.
