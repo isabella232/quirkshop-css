@@ -52,3 +52,5 @@ python -m pip check || echo "uh oh"
 jupyter serverextension list
 jupyter kernelspec list
 jupyter labextension list
+
+jupyter lab workspace import workspace.json
