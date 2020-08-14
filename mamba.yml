@@ -9,6 +9,7 @@ dependencies:
 - doit=0.31
 - nbgitpuller
 - nteract_on_jupyter
+- shapely
 - pip:
   - jupyterlab-git
   - jupyter-starters ==0.3.0a0
