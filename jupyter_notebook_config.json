@@ -1,0 +1,18 @@
+{
+    "LabApp": {
+        "tornado_settings": {
+            "page_config_data": {
+                "buildCheck": false,
+                "buildAvailable": false
+            }
+        }
+    },
+    "VideoChat": {
+        "room_prefix": "quansight-quirkshop",
+        "rooms": [{
+            "id": "quirkshop-css",
+            "displayName": "quirkshop-css",
+            "description": "quirkshop-css: episode 08-18-2020"
+        }]
+    }
+}
