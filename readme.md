@@ -49,9 +49,3 @@ css is a query language.
 
 * [Make complex queries](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
 * [Make too many animations...](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) from [MDN](https://developer.mozilla.org/en-US/) 😿
-
-[jupyterlab css]: https://jupyterlab.readthedocs.io/en/stable/developer/css.html
-[Light theme]: https://githb.com/jupyterlab/jupyterlab/blob/master/packages/theme-light-extension/style/variables.css
-[Dark theme]: https://github.com/jupyterlab/jupyterlab/blob/master/packages/theme-dark-extension/style/variables.css
-[qhub theme]: https://github.com/Quansight/qurated-theme
-[john waters]: https://www.instagram.com/p/CDrij-XlVCI/?igshid=jcsqr0vka7ey
