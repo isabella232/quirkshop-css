@@ -22,11 +22,12 @@ css is a query language.
 ## Agenda
 
 * [readme](readme.md)
-* [outfits](/quirkshop-css/intro-to-css.ipynb)
+* [intro](/quirkshop-css/intro-to-css.ipynb)
+* [outfits](/quirkshop-css/john-waters.ipynb)
 * [lab styling](/quirkshop-css/lab-styling.ipynb)
 * [art school with wes anderson](/quirkshop-css/wes.ipynb)
 * [logo](/quirkshop-css/logo.ipynb)
-* [go go](readme.md)
+* [exit survey](https://docs.google.com/forms/d/e/1FAIpQLSdj8hAreHlqkfKQli07Kz3O_rydw7m3kAx-fffm6m3--Bo1Gw/viewform)
 
 ### What we will do
 
