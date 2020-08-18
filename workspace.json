@@ -36,7 +36,6 @@
                                     "currentIndex": 1,
                                     "widgets": [
                                         "notebook:quirkshop-css/intro-to-css.ipynb",
-                                        "terminal:2",
                                         "notebook:quirkshop-css/lab-styling.ipynb",
                                         "notebook:quirkshop-css/wes.ipynb",
                                         "notebook:quirkshop-css/logo.ipynb"
@@ -47,7 +46,7 @@
                     ]
                 },
                 "mode": "multiple-document",
-                "current": "terminal:2"
+                "current": "markdownviewer-widget:readme.md"
             },
             "left": {
                 "collapsed": false,
@@ -109,11 +108,6 @@
             "data": {
                 "path": "quirkshop-css/readme.md",
                 "factory": "Markdown Preview"
-            }
-        },
-        "terminal:2": {
-            "data": {
-                "name": "2"
             }
         }
     },
