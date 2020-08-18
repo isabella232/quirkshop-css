@@ -2,6 +2,9 @@
 
 [Tuesday August 18 @ 6 PM EST on Youtube Live](https://www.youtube.com/watch?v=aXjGtcamb_0&feature=youtu.be)
 
+
+[![](https://img.shields.io/badge/%F0%9F%92%BE-github-black)](https://github.com/Quansight/quirkshop-css)
+
 this quirkshop is an education and exploration into css.
 it uses the jupyterlab web framework as a medium for learning
 and interacting with css.
