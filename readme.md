@@ -17,6 +17,8 @@ css is a query language.
  to chat with your class mates
 > _jitsi attendees please remember this workshop is filmed in front of a live internet audience._
 
+> youtube and jitsi load quickly while binder has a little overhead.
+
 ![peter griffin sucking at blinds is the css experience](https://media1.tenor.com/images/614c9b4639a2588383f47e138177da81/tenor.gif?itemid=12014506)
 
 ## Agenda
