@@ -42,7 +42,7 @@ css is a query language.
 [![diana smith css art](https://video-images.vice.com/_uncategorized/1525378711169-Screen-Shot-2018-05-03-at-42148-PM.png)](https://www.vice.com/en_us/article/9kgx7p/painting-made-with-code-html-pure-css-browser-art-diana-smith)
 
 * [Make complex queries](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
-* [Make too many animations...](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+* [Make too many animations...](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) from [MDN](https://developer.mozilla.org/en-US/) 😿
 
 [jupyterlab css]: https://jupyterlab.readthedocs.io/en/stable/developer/css.html
 [Light theme]: https://githb.com/jupyterlab/jupyterlab/blob/master/packages/theme-light-extension/style/variables.css
