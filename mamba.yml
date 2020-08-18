@@ -9,8 +9,12 @@ dependencies:
 - doit=0.31
 - nbgitpuller
 - nteract_on_jupyter
+- pandas
 - shapely
 - pip
 - pip:
   - jupyter-starters ==0.3.0a0
   - jupyter-videochat ==0.1.1
+  - requests
+  - requests-cache
+  - git+https://github.com/deathbeds/pidgy@master
