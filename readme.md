@@ -1,7 +1,5 @@
 # Personalizing JupyterLab with CSS
 
-[![](https://img.shields.io/badge/binder-quirkshop-purple)](https://gke.mybinder.org/v2/gh/Quansight/quirkshop-css/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FQuansight%252Fquirkshop-css%26urlpath%3Dlab%252Fworkspaces%252Fcss%253Fjvc%253Dcss%26branch%3Dmaster)
-
 [Tuesday August 18 @ 6 PM EST on Youtube Live](https://www.youtube.com/watch?v=aXjGtcamb_0&feature=youtu.be)
 
 this quirkshop is an education and exploration into css.
@@ -11,44 +9,40 @@ a general understanding of css is a general skill.
 to designers css is a design language and to data scientists
 css is a query language.
 
+> There are a few ways to participate.
+>
+> 1. Code along on [![binder](https://img.shields.io/badge/💻-binder-purple)](https://gke.mybinder.org/v2/gh/Quansight/quirkshop-css/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FQuansight%252Fquirkshop-css%26urlpath%3Dlab%252Fworkspaces%252Fcss%253Fjvc%253Dcss%26branch%3Dmaster)
+> 2. Get some 🍿 and 👀 on [![youtube](https://img.shields.io/badge/📺-youtube-green)](https://www.youtube.com/watch?v=aXjGtcamb_0)
+> 3. Join [![jitsi](https://img.shields.io/badge/📠-jitsi-blueviolet)](https://meet.jit.si/quansight-quirkshopcss)
+ to chat with your class mates
+> _jitsi attendees please remember this workshop is filmed in front of a live internet audience._
+
+![peter griffin sucking at blinds is the css experience](https://media1.tenor.com/images/614c9b4639a2588383f47e138177da81/tenor.gif?itemid=12014506)
+
 ## Agenda
 
-* :05 run through the readme
-* :10 [john waters and outfits](quirkshop-css/john-waters.ipynb)
-* :15 [introduction to css](quirkshop-css/intro-to-css.ipynb)
+* [readme](readme.md)
+* [outfits](/quirkshop-css/intro-to-css.ipynb)
+* [lab styling](/quirkshop-css/lab-styling.ipynb)
+* [art school with wes anderson]
+* [logo]
+* [go go]
 
-    * css selectors
-    * css animations
-    * inspecting the dom
-    * css variables
-    
-* :35 [custom jupyterlab styles](lab-styling.ipynb)
+### What we will do
 
-    formal and informal themes for jupyterlab
-    * jupyterlab theme extensions
-        
-        light mode & dark mode
+* Say the letters __C__, __S__, and __S__ a lot.
+* Scratch the surface of CSS.
+* Some questionable hacks.
+* Talk about feelings
 
-    * adding themes as extensions
-    * custom themes in the notebook
+### What we won't do
 
-* :44 [the wes anderson widget](wes.ipynb)
-* :50 [adding a logo to jupyterlab]()
-* :55 take aways
+* Make Fine Art
 
-## introductions
+[![diana smith css art](https://video-images.vice.com/_uncategorized/1525378711169-Screen-Shot-2018-05-03-at-42148-PM.png)](https://www.vice.com/en_us/article/9kgx7p/painting-made-with-code-html-pure-css-browser-art-diana-smith)
 
-host: fatma
-instructor: tony
-guest: isabela
-
-## familiar resources
-
-* qhub
-* youtube
-* binder
-* csstricks
-* w3c
+* Make complex queries
+* Make too many animations...
 
 [jupyterlab css]: https://jupyterlab.readthedocs.io/en/stable/developer/css.html
 [Light theme]: https://githb.com/jupyterlab/jupyterlab/blob/master/packages/theme-light-extension/style/variables.css
