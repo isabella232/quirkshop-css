@@ -3,6 +3,8 @@ set -eux
 
 mamba env update --file mamba.yml --prefix ${NB_PYTHON_PREFIX}
 
+python -m pidgy kernel install
+
 jupyter serverextension enable --sys-prefix --py jupyter_videochat
 jupyter serverextension enable --sys-prefix --py nbgitpuller
 
@@ -47,3 +49,4 @@ jupyter kernelspec list
 jupyter labextension list
 
 jupyter lab workspace import workspace.json
+
