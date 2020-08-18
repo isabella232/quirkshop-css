@@ -24,9 +24,9 @@ css is a query language.
 * [readme](readme.md)
 * [outfits](/quirkshop-css/intro-to-css.ipynb)
 * [lab styling](/quirkshop-css/lab-styling.ipynb)
-* [art school with wes anderson]
-* [logo]
-* [go go]
+* [art school with wes anderson](/quirkshop-css/wes.ipynb)
+* [logo](/quirkshop-css/logo.ipynb)
+* [go go](readme.md)
 
 ### What we will do
 
